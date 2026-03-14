@@ -13,7 +13,7 @@ A collaborative filtering recommendation engine written in Go. It uses cosine si
 **Prerequisites:** Go 1.18 or later
 
 ```bash
-git clone https://github.com/your-username/recommendation-system-go.git
+git clone https://github.com/iinsys/recommendation-system-go.git
 cd recommendation-system-go
 go mod tidy
 go run main.go
